@@ -10,7 +10,12 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
+# or<img width="138" alt="Screenshot 2024-02-09 031401" src="https://github.com/Vimleshkg/SchoolApps/assets/125298546/44fec2b0-6df6-4a3f-90e2-7d85bad5432c">
+<img width="141" alt="Screenshot 2024-02-09 031408" src="https://github.com/Vimleshkg/SchoolApps/assets/125298546/5590f565-fae3-4dce-b153-dc234c8d2f1a">
+<img width="960" alt="Screenshot 2024-02-09 031040" src="https://github.com/Vimleshkg/SchoolApps/assets/125298546/4ee7828a-f3f7-4026-a7f6-4e01061e7017">
+<img width="960" alt="Screenshot 2024-02-09 030939" src="https://github.com/Vimleshkg/SchoolApps/assets/125298546/a5459442-3d5e-4d54-9153-6622f5f82143">
+<img width="960" alt="Screenshot 2024-02-09 030916" src="https://github.com/Vimleshkg/SchoolApps/assets/125298546/a4b0f727-3d7f-420c-9a3d-cfa53577fd8a">
+
 bun dev
 ```
 
